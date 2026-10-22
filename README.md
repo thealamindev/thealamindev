@@ -1,37 +1,126 @@
-<h1 align="center">Hi 👋, I'm Al-Amin</h1>
-<h3 align="center">Full Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thealamindev&label=Profile%20views&color=0e75b6&style=flat" alt="thealamindev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thealamindev" alt="thealamindev" /></a> </p>
-
-- 🔭 I’m currently working on **Chatting Application**
-
-- 🌱 I’m currently learning **NodeJS**
-
-- 👨‍💻 All of my projects are available at [https://www.behance.net/alamin_dev](https://www.behance.net/alamin_dev)
-
-- 💬 Ask me about **React JS, PHP, Laravel, WordPress**
-
-- 📫 How to reach me **thealamindev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/alamin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alamin_dev" height="30" width="40" /></a>
-<a href="https://twitter.com/alamin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamin_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alamin-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alamin-dev" height="30" width="40" /></a>
-<a href="https://fb.com/thealamindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thealamindev" height="30" width="40" /></a>
-<a href="https://instagram.com/alamin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alamin_dev" height="30" width="40" /></a>
-<a href="https://dribbble.com/alamin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alamin_dev" height="30" width="40" /></a>
-<a href="https://www.behance.net/alamin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alamin_dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alamin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alamin_dev" height="30" width="40" /></a>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:22d3ee&height=200&section=header&text=Hi%2C%20I'm%20Al-Amin%20👋&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20%26%20AI%20Automation%20Developer&descAlignY=58&descSize=18" alt="header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Code+%3D+Happiness+%F0%9F%98%8E;Building+Intelligent+Web+Solutions;MERN+Stack+Mentor+%7C+8%2B+Years;AI+Automation+%E2%80%A2+Next.js+%E2%80%A2+Node.js" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thealamindev&show_icons=true&locale=en&layout=compact" alt="thealamindev" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thealamindev&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <a href="https://github.com/thealamindev?tab=followers"><img src="https://img.shields.io/github/followers/thealamindev?label=Followers&style=flat-square&color=22d3ee" alt="followers" /></a>
+  <a href="https://github.com/thealamindev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-98-0e75b6?style=flat-square&logo=github" alt="repos" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thealamindev&show_icons=true&locale=en" alt="thealamindev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thealamindev&" alt="thealamindev" /></p>
+## 🧑‍💻 About Me
+
+```js
+const alamin = {
+  role:        "Full-Stack MERN & AI Automation Developer",
+  experience:  "8+ years — mentoring MERN stack developers",
+  location:    "Dhaka, Bangladesh 🇧🇩",
+  currentWork: ["Multi-tenant e-commerce SaaS (Next.js + Postgres)", "AI automation workflows"],
+  askMeAbout:  ["React", "Next.js", "Node.js", "MongoDB", "Laravel", "WordPress"],
+  studying:    "Business Administration @ University of the People",
+  hobbies:     ["Ethical hacking 🛡️", "Travel ✈️", "Photography 📸"],
+  motto:       "Code = Happiness",
+};
+```
+
+- 🔭 Currently building **a multi-tenant e-commerce platform** with Next.js, PostgreSQL & a self-hosted VPS
+- 🤖 Automating real business workflows with **AI agents & LLM integrations**
+- 👨‍🏫 Mentoring developers in the **MERN stack** for 8+ years
+- 🎨 Design work lives on [Behance](https://www.behance.net/alamin_dev)
+- 📫 Reach me at **[thealamindev@gmail.com](mailto:thealamindev@gmail.com)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/thealamindev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/thealamindev" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://facebook.com/thealamindev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/alamin_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.behance.net/alamin_dev" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://dev.to/alamin_dev" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="mailto:thealamindev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" alt="frontend" />
+</p>
+
+**Backend & Database**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,php,laravel,firebase" alt="backend" />
+</p>
+
+**AI, DevOps & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,docker,nginx,linux,git,github,vercel,postman,vscode" alt="tools" />
+</p>
+
+**CMS & Design**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress,figma,ps,ai,xd" alt="design" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**lartcraft**](https://github.com/thealamindev/lartcraft) | A modern e-commerce platform built with Next.js | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**AminArtCraft**](https://github.com/thealamindev/AminArtCraft) | Art & craft storefront | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**chatingapp**](https://github.com/thealamindev/chatingapp) | Real-time chatting application | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| [**back-to-top-final**](https://github.com/thealamindev/back-to-top-final) | Lightweight back-to-top button plugin | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**NameSite**](https://github.com/thealamindev/NameSite) | Name site project built with Laravel | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thealamindev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealamindev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thealamindev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thealamindev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thealamindev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code = Happiness.” — thanks for stopping by! ⭐ a repo if you like it.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e75b6,100:0f172a&height=110&section=footer" alt="footer" />
+</p>
