@@ -1,7 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:22d3ee&height=200&section=header&text=Hi%2C%20I%20am%20Al-Amin&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20%26%20AI%20Automation%20Developer&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:22d3ee&height=120&section=header" alt="header" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Al-Amin</h1>
+<h3 align="center">Full-Stack MERN &amp; AI Automation Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
