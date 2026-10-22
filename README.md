@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:22d3ee&height=200&section=header&text=Hi%2C%20I'm%20Al-Amin%20👋&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20%26%20AI%20Automation%20Developer&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:22d3ee&height=200&section=header&text=Hi%2C%20I%20am%20Al-Amin&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20%26%20AI%20Automation%20Developer&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thealamindev&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thealamindev.thealamindev&left_color=gray&right_color=0e75b6" alt="profile views" />
   <a href="https://github.com/thealamindev?tab=followers"><img src="https://img.shields.io/github/followers/thealamindev?label=Followers&style=flat-square&color=22d3ee" alt="followers" /></a>
   <a href="https://github.com/thealamindev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-98-0e75b6?style=flat-square&logo=github" alt="repos" /></a>
 </p>
@@ -105,15 +105,7 @@ const alamin = {
   <img src="https://streak-stats.demolab.com?user=thealamindev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thealamindev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thealamindev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-  </a>
-</p>
 
 ---
 
